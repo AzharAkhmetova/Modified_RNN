@@ -11,4 +11,4 @@ Code is written in Python 3 and requires the following libraries: numpy, pandas,
 The datasets are uploaded in the 'datasets' file. 
 
 # Running
-The code is in 'Modified_RNN.ipynb'. The notebook can be run at once in a sequential order.
+The code is in 'Modified_RNN.ipynb'. The notebook can be run at once in sequential order.
